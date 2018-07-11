@@ -1,6 +1,6 @@
 {
   "name": "react-countup-light",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a react count up component in a light version",
   "main": "./lib/CountUp.js",
   "license": "MIT",
@@ -10,6 +10,11 @@
     "countup",
     "light"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maomaoZH/react-countup-light.git"
+  },
+  "author": "Maomao ZH",
   "scripts": {
       "build": "webpack"
   },
