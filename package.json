@@ -1,6 +1,6 @@
 {
   "name": "react-countup-light",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a react count up component in a light version",
   "main": "./lib/CountUp.js",
   "license": "MIT",
