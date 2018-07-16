@@ -1,5 +1,9 @@
 # react-countup-light
 This is a count up component in much light version.
+
+## demo
+<img src="https://github.com/maomaoZH/react-countup-light/blob/master/demo.gif" alt="demo" />
+
 ## Installation
 ```
 yarn add react-countup-light
